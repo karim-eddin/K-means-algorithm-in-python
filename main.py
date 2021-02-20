@@ -23,7 +23,7 @@ for i in range(0,100):
 #     print("cluster ",x)
 #     for i in range(0,len(cluster)):
 #            print(" element: ")
-#            cluster[i].show()
+#            cluster[i].show();
 
 #     x=x+1
 
